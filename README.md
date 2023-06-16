@@ -3,7 +3,7 @@
 crud application with external api fetching using next13, react18, tailwind, and  daisyui
 
 ### install dependences:
-npm intall
+npm install
 
 ### run application
 pnpm run dev
