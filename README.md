@@ -1,6 +1,6 @@
 ## Code Leap Network Challenge
 
-crud application with external api fetching using next13, react18, tailwind, and  daisyui
+crud application with external api fetching using typescript, next13, react18, tailwind, and  daisyui
 
 ### install dependences:
 npm install
