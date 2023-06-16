@@ -2,10 +2,10 @@
 
 crud application with external api fetching using next13, react18, tailwind, and  daisyui
 
-# install dependences:
+### install dependences:
 npm intall
 
-# run application
+### run application
 pnpm run dev
 
 Open (http://localhost:3000/signup) with your browser to see the result.
