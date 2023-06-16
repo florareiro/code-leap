@@ -49,7 +49,7 @@ export default function CreatePostCard() {
     <main className="w-5/6 flex mx-auto my-6 rounded-2xl border border-[#999999] px-6 py-5">
       <form className="w-full h-full">
         <h2 className="mb-3 font-bold text-xl">
-          What's on your mind
+          What&apos;s on your mind?
           {username.username ? `, ${username.username} ` : ""}?
         </h2>
         <div className="my-4 flex flex-col">
